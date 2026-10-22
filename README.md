@@ -24,15 +24,6 @@ He trabajado en productos empresariales, plataformas financieras y soluciones co
 - 🧑‍🏫 También tengo experiencia docente en Programación Web
 - 🌐 Español nativo · Inglés B1+ certificado
 
-## 📊 GitHub en actividad
-
-<div align="center">
-
-[![Estadísticas de Roger](https://github-stats-extended.vercel.app/api?username=rogerdv0008&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github)](https://github.com/stats-organization/github-stats-extended)
-[![Lenguajes más usados](https://github-stats-extended.vercel.app/api/top-langs/?username=rogerdv0008&layout=compact&theme=github_dark&hide_border=true)](https://github.com/stats-organization/github-stats-extended)
-
-</div>
-
 ## 🧰 Tecnologías
 
 **Backend**  
